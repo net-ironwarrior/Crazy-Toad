@@ -219,4 +219,4 @@ Crazy Toad is offered as a complete free version with all features and updates i
 Dive into the fun with Crazy Toad! Download now and embark on an exciting adventure!
 
 ---
-**Last updated:** 2026-10-04 19:12:04 UTC
+**Last updated:** 2026-10-04 22:45:42 UTC
